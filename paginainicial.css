@@ -14,9 +14,9 @@
   background-color: #ecdac7;
   border: 40px;
   color: #202020;
-  padding: 10px 50px;
+  padding: 10px;
   text-align: center;
-  font-size: 100%;
+  font-size: 40px;
   border-radius: 40px;
   margin-top: 2%;
   margin-left: 3%;
@@ -27,7 +27,14 @@
   background-color: #DEB887;
 }
 
+.menu input{
 
+  width: 200px;
+  height: 35px;
+  position: absolute;
+  top: 5%;
+  left: 50%;
+}
 
 
 
@@ -35,35 +42,42 @@ body {
 	background-color: #132235;
 }
 
-i.fas-fa-bars{
-	width: 100%;
-	height: 100%;
-}
-
-
-label {
-  color:#ecdac7;
-
-}
 
 
 
-body {
-  font-family: Arial;
-}
 
-* {
-  box-sizing: border-box;
-}
 
 
 
-input {
-  background-color: #ecdac7;
-   margin-top: 2%;
-  margin-left: 80%;
-
+* {
+padding: 0;
+border:0;
 
 }
 
+
+.img{
+  position: absolute;
+  top: 20%;
+  left: 10%;
+}
+
+.menu{
+  width: auto;
+  height: 50px;
+
+}
+
+
+}
+
+.search-box{
+position: absolute;
+top: 40%;
+left: 50%;
+background: #ecdac7;
+height: 40px;
+border-radius: 40px;
+
+}
 
