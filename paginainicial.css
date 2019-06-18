@@ -28,7 +28,15 @@
   background-color: #DEB887;
 }
 
-.menu{
+
+.material-icons{
+font-size:70px;
+color: #ecdac7;
+top:4%;
+left:5%; 
+position:absolute;
+}
+
 
 }
 
@@ -46,9 +54,6 @@
 body {
 	background-color: #132235;
 }
-
-
-
 
 
 
@@ -73,15 +78,5 @@ border:0;
 
 
 
-
-.search-box{
-position: absolute;
-top: 40%;
-left: 50%;
-background: #ecdac7;
-height: 40px;
-border-radius: 40px;
-
-}
 
 
