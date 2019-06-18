@@ -7,6 +7,7 @@
 .button2{
 
 	position: relative;
+  width: 1200px;
 	left: 25%;
 }
 
@@ -25,6 +26,10 @@
 
 .button:hover {
   background-color: #DEB887;
+}
+
+.menu{
+
 }
 
 .menu input{
@@ -63,13 +68,11 @@ border:0;
 }
 
 .menu{
-  width: auto;
-  height: 50px;
 
 }
 
 
-}
+
 
 .search-box{
 position: absolute;
@@ -80,4 +83,5 @@ height: 40px;
 border-radius: 40px;
 
 }
+
 
